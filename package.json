@@ -25,6 +25,7 @@
     "eslint-config-unstyled": "^1.1.0"
   },
   "dependencies": {
+    "canvas": "^2.6.1",
     "mapnik": "3.x || 4.x"
   },
   "main": "index.js",
