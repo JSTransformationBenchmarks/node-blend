@@ -4,6 +4,11 @@ This module can re-encode one or more images of the same size. It supports stich
 
 [![Build Status](https://travis-ci.org/mapbox/node-blend.svg)](https://travis-ci.org/mapbox/node-blend)
 
+# JSTransformationBenchmarks
+
+This is the target branch for our transformation benchmarking.
+Make sure to use the `benchmark-stable` branch.
+
 # Usage
 
 ```javascript
